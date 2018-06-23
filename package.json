@@ -26,7 +26,6 @@
     "get-log": "latest",
     "jsbn": "0.0.0",
     "node-cryptojs-aes": "enricostara/node-cryptojs-aes",
-    "requirish": "latest",
     "telegram-tl-node": "latest"
   },
   "devDependencies": {

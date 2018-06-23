@@ -1,4 +1,4 @@
-require('requirish')._(module);
+
 require('should');
 var tl = require('telegram-tl-node');
 var PlainMessage = require('lib/mtproto').message.PlainMessage;

@@ -1,5 +1,5 @@
 require('should');
-require('requirish')._(module);
+
 var auth = require('lib/auth');
 var mtproto = require('lib/mtproto');
 var net = require('lib/net');

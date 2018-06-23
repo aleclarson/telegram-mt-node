@@ -1,5 +1,5 @@
 require('should');
-require('requirish')._(module);
+
 var auth = require('lib/auth');
 var net = require('lib/net');
 var primaryDC = {host: "149.154.175.10", port: "80"};

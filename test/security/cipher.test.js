@@ -1,4 +1,4 @@
-require('requirish')._(module);
+
 require('should');
 var cipher = require('lib/security/').cipher;
 var PublicKey = require('lib/security').PublicKey;

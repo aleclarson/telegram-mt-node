@@ -1,4 +1,4 @@
-require('requirish')._(module);
+
 require('should');
 var mtproto = require('lib/mtproto');
 

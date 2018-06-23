@@ -1,5 +1,5 @@
 require('should');
-require('requirish')._(module);
+
 var auth = require('lib/auth');
 
 describe('AuthKey', function () {
